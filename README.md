@@ -49,6 +49,9 @@ These are the things that i found useful when creating this html assignment, the
 ## Your Detail
 - FullName - [Haramain Emir Ben]
 - StudentID -[2602206770]
-- BINUS Email - [mharamain.emir@binus.ac.id
+- BINUS Email - [mharamain.emir@binus.ac.id]
+
+## Acknowledgments
+big shoutout to the youtuber Irvine Mesa, in helping me to create the structure of the html syntax.
               
 
